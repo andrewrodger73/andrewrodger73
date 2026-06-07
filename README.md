@@ -24,5 +24,5 @@ I don’t need an ideology to tell me how to feel or a politician to tell me wha
 ---
 
 ## 🗂️ Active Frameworks
-* 🔬 **[Quantum Constraint Framework (QCF)](https://github.com/andrewrodger73/QCF)** - An independent, open-source quantum gravity framework evaluating localized constraint equations at the Schwarzschild radius. 
-* 📜 **Formal Archive:** [Zenodo Record 20570617](https://zenodo.org/records/20570617)
+* 🔬 **[Quantum Constraint Framework (QCF)](https://github.com/andrewrodger73/QCF)** - Research repository for the Quantum Constraint Framework (QCF): Resolving spacetime singularities through horizon-localized Bekenstein entropy saturation.
+* 📜 **Formal Archive:** [Zenodo Record 20576794](https://zenodo.org/records/20576794)
