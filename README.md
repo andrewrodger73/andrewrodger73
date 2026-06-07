@@ -24,5 +24,5 @@ I don’t need an ideology to tell me how to feel or a politician to tell me wha
 ---
 
 ## 🗂️ Active Frameworks
-* 🔬 **[Quantum Constraint Framework (QCF)](https://github.com/andrewrodger73/QCF)** - Research repository for the Quantum Constraint Framework (QCF): Resolving spacetime singularities through horizon-localized Bekenstein entropy saturation.
+* 🔬 **[Quantum Constraint Framework (QCF)](https://github.com/andrewrodger73/QCF)** - Official repository for "Quantum Constraint Framework at Spacetime Singularities: A Postulate of Isomorphic Cosmic Equilibrium" [Zenodo DOI: 10.5281/zenodo.20576794]
 * 📜 **Formal Archive:** [Zenodo Record 20576794](https://zenodo.org/records/20576794)
