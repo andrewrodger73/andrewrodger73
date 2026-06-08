@@ -1,3 +1,4 @@
+![QCF](qcf_header_perfect.png)
 # 🌌 Andrew Rodger
 
 > "The world isn't broken. We’re just running the wrong diagnostics."
