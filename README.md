@@ -5,6 +5,8 @@
 ---
 
 ## ⚙️ The Core Framework
+Current postulate: ∑GR = ∑QM → K_max = 1/16
+
 When you look at this planet with any kind of technical literacy, you don't see a cradle. You see a high-precision, hyper-sensitive mechanism running on tolerances so tight they would make an engineer weep. 
 
 * **The Chemical Reality:** $H_2O$ vs $H_2O_2$. Add a single oxygen molecule and you turn a life-giving necessity into a caustic, biological weapon. That isn’t just chemistry; that’s a system designed where a single bit-flip causes a total phase shift.
@@ -24,5 +26,5 @@ I don’t need an ideology to tell me how to feel or a politician to tell me wha
 ---
 
 ## 🗂️ Active Frameworks
-* 🔬 **[Quantum Constraint Framework (QCF)](https://github.com/andrewrodger73/QCF)** - Official repository for "Quantum Constraint Framework at Spacetime Singularities: A Postulate of Isomorphic Cosmic Equilibrium" [Zenodo DOI: 10.5281/zenodo.20576794]
+* 🔬 **[Quantum Constraint Framework (QCF)](https://github.com/andrewrodger73/QCF)** - Official repository for "Quantum Constraint Framework at Spacetime Singularities: A Postulate of Isomorphic Cosmic Equilibrium" [Zenodo DOI: 10.5281/zenodo.20576794] V1.0 (June 2026) — known interior flaw, V2 in progress
 * 📜 **Formal Archive:** [Zenodo Record 20576794](https://zenodo.org/records/20576794)
