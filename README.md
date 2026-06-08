@@ -1,4 +1,8 @@
 ![QCF](media.png)
+
+Independent Researcher, No funding, No institution, Just BIG Ideas.
+
+Working on QCF — a curvature-capped framework where ∑GR = ∑QM
 # 🌌 Andrew Rodger
 
 > "The world isn't broken. We’re just running the wrong diagnostics."
