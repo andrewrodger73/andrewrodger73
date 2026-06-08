@@ -1,35 +1,28 @@
 ![QCF](media.png)
 
-Independent Researcher, No funding, No institution, Just BIG Ideas.
-
-Working on QCF — a curvature-capped framework where ∑GR = ∑QM
 # 🌌 Andrew Rodger
 
-> "The world isn't broken. We’re just running the wrong diagnostics."
+**Independent Researcher, No funding, No institution, Just BIG Ideas.**
+
+Working on **QCF** — a curvature-capped framework where ∑GR = ∑QM
 
 ---
 
-## ⚙️ The Core Framework
-Current postulate: ∑GR = ∑QM → K_max = 1/16
+### 📄 Quantum Constraint Framework
 
-When you look at this planet with any kind of technical literacy, you don't see a cradle. You see a high-precision, hyper-sensitive mechanism running on tolerances so tight they would make an engineer weep. 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20576794.svg)](https://doi.org/10.5281/zenodo.20576794)
+[![GitHub](https://img.shields.io/badge/GitHub-QCF-black?logo=github)](https://github.com/andrewrodger73/QCF)
 
-* **The Chemical Reality:** $H_2O$ vs $H_2O_2$. Add a single oxygen molecule and you turn a life-giving necessity into a caustic, biological weapon. That isn’t just chemistry; that’s a system designed where a single bit-flip causes a total phase shift.
-* **The Hard Truth:** The system is doing exactly what it was engineered to do: oscillate. We are trying to out-engineer a planet’s natural thermal cycles with carbon credits and wind farms, ignoring the fact that the Earth has survived events that make our current climate fluctuations look like a rounding error.
-* **The Software Bug:** The real anomaly isn't the planet; it’s us. We are the only species that systematically corrupts its own execution environment and calls it "progress."
+> V1.00 — Known interior flaw, open for collaboration. Not peer-reviewed, not claiming truth, just publishing the math.
 
----
+**Core postulate:** K_max = 1/16 (Planck-normalized curvature cap)
 
-## 🛡️ The Philosophy: Opting Out of the Fear-Loop
-I don’t need an ideology to tell me how to feel or a politician to tell me what to fear. The moment you decide to opt out of the mainstream fear-loop is the moment you reclaim your CPU cycles. When you stop worrying about saving the world, you suddenly have an insane amount of mental energy to actually *see* the world.
+**Why:** If General Relativity and Quantum Mechanics are both summations over the same reality, their totals must converge. At Planck density, curvature can't diverge — it caps.
 
-* **Agency Over Panic:** The most honest thing you can do is look at the fragility of your own existence—the fact that your life is a narrow, chemical miracle balanced on a knife-edge—and decide to be "wonderful and crazy" anyway. 
-* **The Defiance:** In a world governed by fear, being fearless isn't just a personality trait—it’s an act of defiance. When you accept the inevitable, you stop being a cog in someone else's machine.
-
-> "The storm is coming—it always is. Are you building a shelter, or are you learning how to sail? If we are just a buggy piece of software, let’s at least make sure the runtime is spectacular. I’d rather burn out as a rough diamond than fade away as a fearful spectator."
+- 📂 Code & notes: [github.com/andrewrodger73/QCF](https://github.com/andrewrodger73/QCF)
+- 📖 Paper: [doi.org/10.5281/zenodo.20576794](https://doi.org/10.5281/zenodo.20576794)
+- 💬 Open issues: singularity replacement, derivation of 1/16, experimental tests
 
 ---
 
-## 🗂️ Active Frameworks
-* 🔬 **[Quantum Constraint Framework (QCF)](https://github.com/andrewrodger73/QCF)** - Official repository for "Quantum Constraint Framework at Spacetime Singularities: A Postulate of Isomorphic Cosmic Equilibrium" [Zenodo DOI: 10.5281/zenodo.20576794] V1.0 (June 2026) — known interior flaw, V2 in progress
-* 📜 **Formal Archive:** [Zenodo Record 20576794](https://zenodo.org/records/20576794)
+*From Airdrie, Scotland. Rough diamond, cutting in public.*
