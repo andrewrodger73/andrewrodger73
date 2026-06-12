@@ -4,6 +4,11 @@
 
 Working on **QCF** — a curvature-capped framework where ∑GR = ∑QM
 
+The Paper, Code and Simulator :
+[![GitHub](https://img.shields.io/badge/GitHub-QCF-black?logo=github)](https://github.com/andrewrodger73/QCF) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20615629.svg)](https://doi.org/10.5281/zenodo.20615629)
+
+
 
 > **"The world isn't broken. We’re just running the wrong diagnostics."**
 
