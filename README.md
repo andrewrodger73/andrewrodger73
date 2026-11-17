@@ -1,14 +1,4 @@
-![QCF](media.png)
-
 # 🌌 Andrew Rodger
-
-Working on **QCF** — a curvature-capped framework where ∑GR = ∑QM
-
-The Paper, Code and Simulator :
-[![GitHub](https://img.shields.io/badge/GitHub-QCF-black?logo=github)](https://github.com/andrewrodger73/QCF) 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681174.svg)](https://doi.org/10.5281/zenodo.20681174)
-
-
 
 > **"The world isn't broken. We’re just running the wrong diagnostics."**
 
@@ -37,18 +27,6 @@ I’m focusing on the only thing I can control: the quality of the work I do and
 
 ### 🧭 The Closer
 > **The storm is coming—it always is. Are you building a shelter, or are you learning how to sail?**
-
-### 📄 Quantum Constraint Framework
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681174.svg)](https://doi.org/10.5281/zenodo.20681174)
-[![GitHub](https://img.shields.io/badge/GitHub-QCF-black?logo=github)](https://github.com/andrewrodger73/QCF)
-
-**Core postulate:** K_max = 1/16 (Planck-normalized curvature cap)
-
-**Why:** If General Relativity and Quantum Mechanics are both summations over the same reality, their totals must converge. At Planck density, curvature can't diverge — it caps.
-
-- 📂 Code & notes: [github.com/andrewrodger73/QCF](https://github.com/andrewrodger73/QCF)
-- 📖 Paper: [doi.org/10.5281/zenodo.20681174](https://doi.org/10.5281/zenodo.20681174)
 
 ---
 
