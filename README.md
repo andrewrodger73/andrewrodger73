@@ -1,10 +1,10 @@
-# 🌌 Andrew Rodger
+# 🌌 Andrew Rodger  [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--9897--2635-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9897-2635)
 
 > **"The world isn't broken. We’re just running the wrong diagnostics."**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24323676.svg)](https://doi.org/10.5281/zenodo.24323676) **Spike Phase Test V1.0**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24289537.svg)](https://doi.org/10.5281/zenodo.24289537) **Double-Entry Cosmology**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681174.svg)](https://doi.org/10.5281/zenodo.20681174) **Quantum Constraint Framework at Spacetime Singularities**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681174.svg)](https://doi.org/10.5281/zenodo.20681174) **Quantum Constraint Framework at Spacetime Singularities**  
 
 ---
 
