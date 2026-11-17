@@ -2,6 +2,10 @@
 
 > **"The world isn't broken. We’re just running the wrong diagnostics."**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24323676.svg)](https://doi.org/10.5281/zenodo.24323676) **Spike Phase Test V1.0**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24289537.svg)](https://doi.org/10.5281/zenodo.24289537) **Double-Entry Cosmology**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681174.svg)](https://doi.org/10.5281/zenodo.20681174) **Quantum Constraint Framework at Spacetime Singularities**
+
 ---
 
 ### 🪝 The Hook
@@ -29,8 +33,4 @@ I’m focusing on the only thing I can control: the quality of the work I do and
 > **The storm is coming—it always is. Are you building a shelter, or are you learning how to sail?**
 
 ---
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24323676.svg)](https://doi.org/10.5281/zenodo.24323676) **Spike Phase Test V1.0**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24289537.svg)](https://doi.org/10.5281/zenodo.24289537) **Double-Entry Cosmology**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681174.svg)](https://doi.org/10.5281/zenodo.20681174) **Quantum Constraint Framework at Spacetime Singularities**  
-
 *From Airdrie, Scotland. Rough diamond, cutting in public.*
